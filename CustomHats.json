@@ -1,15 +1,17 @@
 {
     "hats": [
-        {
-            "author": "Palmer",
-            "bounce": true,
-            "climbresource": "megaphone_climb.png",
-            "condition": "None",
-            "name": "Megaphone",
-            "package": "Community Hats",
-            "reshasha": "a1d29f24addac61053c3b219215838f4",
-            "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a6",
-            "resource": "megaphone_bounce.png"
-        }
+      {
+        "adaptive": true,
+        "author": "Tsunaarare",
+        "backresource": "81Rabbit_back.png",
+        "climbresource": "81Rabbit_climb.png",
+        "condition": "None",
+        "name": "81Rabbit",
+        "package": "MR Edition Hats",
+        "reshasha": "8b946756dcd8f83c878fc1a68774219a",
+        "reshashb": "d2ab8efa16058ae342f083cc6ab39bc4",
+        "reshashc": "3f7ebf263072e2cf8fc55117c6caba5e",
+        "resource": "81Rabbit_adaptive.png"
+      }
     ]
 }
