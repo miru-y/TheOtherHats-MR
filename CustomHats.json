@@ -24,6 +24,19 @@
         "reshashb": "80075c0145bafcb6899eac1f119b7884",
         "reshashc": "a3ecdd70897e33ee0fefcf9509593f54",
         "resource": "81Menhera.png"
+      },
+      {
+        "adaptive": true,
+        "author": "Tsunaarare",
+        "backresource": "81Dog_back.png",
+        "climbresource": "81Dog_climb.png",
+        "condition": "None",
+        "name": "81Dog",
+        "package": "MR Edition Hats",
+        "reshasha": "f80014db0320b5dcdbfc45644007b34b",
+        "reshashb": "4ea19146629aa3e2af753e22c94bcdcc",
+        "reshashc": "168800872ce3c0a0502de3295716557f",
+        "resource": "81Dog_adaptive.png"
       }
     ]
 }
